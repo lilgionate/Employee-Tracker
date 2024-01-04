@@ -3,11 +3,10 @@
 ## Table of Contents
 - [User Story](#user-story)
 - [Description](#description)
-- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Tests](#tests)
-- [Questions](#questions)
+- [Github](#Repo)
 
 ## User Story:
 AS A business owner
@@ -18,13 +17,6 @@ SO THAT I can organize and plan my business
 
 ## Description:
 This is an employee tracker database. It allows users to input departments, roles, and employees, update an employee's role, and view a table of departments, roles, and employees.
-
-## Installation:
-- Download it through Github
-- Ensure inquirer is installed
-- Ensure mysql2 is installed
-- Ensure console.table package is installed
-- To connect to the database, once files are downloaded to you computer, you will need to change the password on line 11 of the server.js file to your own password
 
 ## Usage:
 - Open terminal and navigate to employee_tracker folder
@@ -43,17 +35,11 @@ This is an employee tracker database. It allows users to input departments, role
 - Type npm start into the terminal
 - Answer prompts in terminal to view, add, and update the database
 
-Link to Video of Walkthrough for Demonstration:
-
- 
-
-
 ## License:
 NONE
 
 ## Tests:
 None
 
-## Questions:
-- Github: [Lilgionate](https://github.com/andreahergert)
-- Email: gioanathanv@gmail.com 
+## Employee Tracker Repo:
+- Github: https://github.com/lilgionate/Employee-Tracker.git
